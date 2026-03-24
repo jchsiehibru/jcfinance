@@ -1,0 +1,5 @@
+{
+  "name": "個人資產管理系統",
+  "description": "包含收支管理、資產管理、市場趨勢與財務報表，並整合 Google Sheets 與 Finnhub API。",
+  "requestFramePermissions": []
+}
